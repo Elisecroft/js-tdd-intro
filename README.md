@@ -15,7 +15,7 @@ npm test
 ## Built with
 
 [JavaScript](https://fr.wikipedia.org/wiki/JavaScript) - Programming Language  
-[Mocha](https://mochajs.org/) - A JavaScript test framework running on Node.JS
+[Mocha](https://mochajs.org/) - A JavaScript test framework running on Node.JS  
 and my favorite code editor [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Author
