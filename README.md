@@ -1,4 +1,4 @@
-# An introducton to TDD in JavaScript
+# An introduction to TDD in JavaScript
 
 All is in title. This repo contains 3 simple and all tests, and was made by following th Test Driving Development method. I use [Mocha](https://mochajs.org/) to make the test.
 
